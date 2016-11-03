@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WP110302</string>
+    <string name="action_settings">設定</string>
+    <string name="action_about">關於我</string>
+</resources>
